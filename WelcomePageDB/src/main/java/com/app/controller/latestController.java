@@ -8,4 +8,7 @@ public class latestController {
 	public String Welcome() {
 		return "hello";
 	}
+	public String Sunilboss() {
+		return "mala nako sangu";
+	}
 }
